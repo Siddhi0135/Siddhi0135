@@ -7,6 +7,10 @@
 - 📫 You can reach me via mail: siddhisharma4549@gmail.com
 - 😄 Pronouns: She/Her
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 Siddhi0135/Siddhi0135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
