@@ -17,8 +17,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -84,7 +82,7 @@ CSS                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 01:20:41 UTC
+ Last Updated on 08/09/2024 01:34:24 UTC
 <!--END_SECTION:waka-->
 
 <!---
