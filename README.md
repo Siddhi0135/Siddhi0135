@@ -52,18 +52,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        █████████████████████████   99.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DWM Project              1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +76,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2024 01:25:48 UTC
+ Last Updated on 20/10/2024 01:40:45 UTC
 <!--END_SECTION:waka-->
 
 <!---
