@@ -52,18 +52,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   0 secs              ████████████████████████░   96.11 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ████████████████████████░   96.11 % 
-vue-project              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +76,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2024 01:38:27 UTC
+ Last Updated on 29/10/2024 01:36:26 UTC
 <!--END_SECTION:waka-->
 
 <!---
