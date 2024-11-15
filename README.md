@@ -52,16 +52,18 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     17 mins             ███████████████░░░░░░░░░░   60.35 % 
+CSS                      11 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pttl practice            29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +79,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 01:26:17 UTC
+ Last Updated on 15/11/2024 01:39:29 UTC
 <!--END_SECTION:waka-->
 
 <!---
