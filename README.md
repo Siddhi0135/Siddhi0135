@@ -17,8 +17,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -77,7 +75,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 01:25:12 UTC
+ Last Updated on 29/12/2024 01:41:36 UTC
 <!--END_SECTION:waka-->
 
 <!---
