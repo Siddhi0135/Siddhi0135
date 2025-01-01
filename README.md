@@ -17,8 +17,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -52,16 +50,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Git Config               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Textify                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +75,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 01:26:49 UTC
+ Last Updated on 01/01/2025 01:41:26 UTC
 <!--END_SECTION:waka-->
 
 <!---
