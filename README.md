@@ -17,6 +17,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 3 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -50,16 +52,16 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SMS3                     42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +77,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2025 01:46:47 UTC
+ Last Updated on 30/04/2025 01:45:56 UTC
 <!--END_SECTION:waka-->
 
 <!---
