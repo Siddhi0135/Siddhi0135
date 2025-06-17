@@ -52,17 +52,16 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ████████████████░░░░░░░░░   65.04 % 
-HTML                     37 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-walmart hackathon        1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 01:56:01 UTC
+ Last Updated on 17/06/2025 01:53:05 UTC
 <!--END_SECTION:waka-->
 
 <!---
