@@ -17,8 +17,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -77,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 01:37:45 UTC
+ Last Updated on 13/09/2025 01:26:30 UTC
 <!--END_SECTION:waka-->
 
 <!---
